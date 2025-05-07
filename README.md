@@ -25,6 +25,8 @@ This is a simple, responsive landing page for Osumare, built as an internship as
 3. Open `index.html` in your browser to view the page.
 4. All images are in the `images` folder.
 
+## Live Link
+https://cool-chebakia-c98555.netlify.app/
 ## Customization
 - You can replace images in the `images` folder with your own.
 - Edit `index.html` and `styles.css` to change content or styles.
