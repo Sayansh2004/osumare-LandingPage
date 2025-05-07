@@ -31,7 +31,7 @@ This is a simple, responsive landing page for Osumare, built as an internship as
 
 ## Credits
 - Design inspired by a Figma file provided for the assignment.
-- Built by [Your Name] as part of an internship application.
+- Built by Sayansh Chopra as part of an internship application.
 
 ---
 
